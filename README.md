@@ -7,6 +7,7 @@ Neste projeto, conduzi uma análise estatística focada no ciclo de vida das pla
 
 ## 🔗 Links Rápidos
 * **[Dashboard Interativo no Tableau Public](https://public.tableau.com/app/profile/marcelo.aragao/viz/Analise_Mercado_Games_Ice_2017/Dashboard?publish=yes)**
+* **[Apresentação Executiva (PDF)](Apresentacao_Executiva_Ice.pdf)**
 
 ## 🛠️ Ferramentas e Tecnologias
 * **Linguagem:** Python
@@ -19,6 +20,8 @@ Neste projeto, conduzi uma análise estatística focada no ciclo de vida das pla
 * `Notebook_Sprint6.ipynb`: O código-fonte contendo a limpeza dos dados, testes estatísticos e as conclusões analíticas.
 * `games (1).csv`: Base de dados original brutos.
 * `ice_games_portfolio.csv`: Base de dados tratada e exportada para alimentar o dashboard.
+* `Apresentacao_Executiva_Ice.pdf`: Relatório visual contendo a estratégia de negócios e recomendações para 2017.
+* `requirements.txt`: Lista de dependências e bibliotecas utilizadas no projeto.
 
 ## 💡 Principais Insights Comerciais
 1. **O Ciclo de Vida:** O tempo de vida útil de uma plataforma de sucesso é de aproximadamente 10 anos. Em 2016, gigantes como PS3 e Xbox 360 já estavam em franco declínio.
